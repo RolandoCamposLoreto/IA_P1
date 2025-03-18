@@ -1,0 +1,1 @@
+print("Mi", "nombre", "es", "Moto", "Rola.", sep="-") #La palabra clave se asigna en cada espacio detectado
