@@ -1,0 +1,1 @@
+print("Tres tristes tigres" , "tragaban" , "trigo en un trigal.") #Los argumentos (cadenas) estan separados para estética del código
