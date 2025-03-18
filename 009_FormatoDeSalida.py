@@ -1,0 +1,2 @@
+print("          **" "    "* 2,"\n", "       **  **" "   "* 2,"\n","      **    **" "  "* 2,"\n", "     **      **" " "* 2,"\n","    ****    ****" * 2,"\n","      **    **" "  "* 2,"\n","      **    **" "  "* 2,"\n","      ********" "  "* 2,) 
+# Cadena que subjetivamente es el doble de grande y se encuentra duplicada gracias al truco operacional, posdata los códigos los hago en IDLE Python por ello lo pegue para no hacerlo doble vez
